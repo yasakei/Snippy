@@ -37,13 +37,9 @@ echo "Snippy has been installed successfully to $INSTALL_PATH!"
 
 cat << "EOF"
 
-      .--.
-     |o_o |
-     |:_/ |
-    //   \ \
-   (|     | )
-  /'\_   _/`\
-  \___)=(___/
+    /\_/\
+   ( owo )
+    > ^ <
 
 EOF
 
