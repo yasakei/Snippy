@@ -34,15 +34,19 @@ chmod +x "$INSTALL_PATH"
 
 echo ""
 echo "Snippy has been installed successfully to $INSTALL_PATH!"
-echo ""
-echo "      .--."
-echo "     |o_o |"
-echo "     |:_/ |"
-echo "    //   \ \
-echo "   (|     | )"
-echo "  /'\_   _/`\"
-echo "  \___)=(___/"
-echo ""
+
+cat << "EOF"
+
+      .--.
+     |o_o |
+     |:_/ |
+    //   \ \
+   (|     | )
+  /'\_   _/`\
+  \___)=(___/
+
+EOF
+
 echo "You can now run it from anywhere by typing 'snippy'."
 echo "Try it out: snippy list"
 
